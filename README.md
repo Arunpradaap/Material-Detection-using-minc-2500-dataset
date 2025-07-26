@@ -74,19 +74,14 @@ Material: glass
 FPS: 24.18
 👤 Author
 Arunpradaap S
-GitHub • LinkedIn
+GitHub   :https://github.com/Arunpradaap
+LinkedIn :https://www.linkedin.com/in/arunpradaap
 
 📄 License
 MIT License — Free to use, modify, and distribute with credit to original dataset authors and this project.
 
-yaml
-Copy
-Edit
+## 📄 License
 
----
-
-Would you like me to also:
-- Add the **BibTeX citation** for MINC-2500?
-- Or mention any **other datasets you plan to use next** (e.g., MetaGraspNet)?
-
-Let me know and I can tailor that too
+MIT License — Free to use, modify, and distribute with credit to:
+- The original authors of the MINC-2500 dataset (Bell et al., CVPR 2015)
+- This project and any contributors
