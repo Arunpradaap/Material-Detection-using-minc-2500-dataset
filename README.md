@@ -19,13 +19,13 @@ This project implements a real-time material classification system using deep le
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Arunpradaap S/Material-Detection-using-minc-2500-datasetMaterial-Detection-using-minc-2500-dataset.git
+   cd yMaterial-Detection-using-minc-2500-datasetMaterial-Detection-using-minc-2500-dataset
+
 Install dependencies
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Ensure model file is present
 Place the pretrained material_classifier_resnet18.pt file in the models/ directory.
