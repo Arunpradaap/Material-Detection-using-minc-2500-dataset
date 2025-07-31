@@ -39,5 +39,5 @@ for class_name in os.listdir(base_dir):
     for img in val_images:
         shutil.copy(os.path.join(class_path, img), os.path.join(val_dir, class_name, img))
 
-print("✅ Done splitting into train and val sets.")
+print(" Done splitting into train and val sets.")
 
