@@ -1,10 +1,10 @@
-# 🧠 Real-Time Material Classification Using Deep Learning
+# Real-Time Material Classification Using Deep Learning
 
 This project implements a real-time material classification system using deep learning and computer vision. It uses a webcam to capture object images and a fine-tuned **ResNet18** model to identify the **material type** from a set of 23 common categories.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - `material_classifier.py` – Real-time webcam-based material detection
 - `train_material_classifier.py` – Training script for material classifier
@@ -15,7 +15,7 @@ This project implements a real-time material classification system using deep le
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**  
    ```bash
@@ -38,7 +38,7 @@ bash
 Copy
 Edit
 python material_classifier.py
-🧠 Model Details
+ Model Details
 Architecture: ResNet18
 
 Training Data: MINC-2500 Dataset
@@ -59,12 +59,12 @@ aluminum_foil, asphalt, brick, cardboard, carpet, ceramic,
 concrete, fabric, foliage, food, glass, grass, gravel,
 hair, leather, metal, mirror, paper, plastic, polished_wood,
 soil, stone, wood
-📂 Dataset Used
+ Dataset Used
 MINC-2500 (Materials in Context)
 Original source: http://opensurfaces.cs.cornell.edu/publications/minc/
 Download via: https://www.kaggle.com/datasets/kmader/materials-data
 
-📸 Example Output
+ Example Output
 The webcam feed displays:
 
 makefile
@@ -72,12 +72,12 @@ Copy
 Edit
 Material: glass
 FPS: 24.18
-👤 Author
+ Author
 Arunpradaap S
 GitHub   :https://github.com/Arunpradaap
 LinkedIn :https://www.linkedin.com/in/arunpradaap
 
-📄 License
+ License
 MIT License — Free to use, modify, and distribute with credit to original dataset authors and this project.
 
 ## 📄 License
